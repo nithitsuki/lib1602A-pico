@@ -1,3 +1,7 @@
+# **DOES NOT WORK** (AS OF NOW)
+I'm yet to push the alpha, this is literally the base code with one funtion
+I want to polish the code a bit more before publishing, so please wait till i get that done
+
 # lib-ST7066U-rp2040
 Library for interfacinig with a ST7066U/ST7065C controller within or outside a 1602(A) display
 for the rp2040 chipset (such as the raspberry pi pico) using using  the pico c/c++ sdk
